@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+*.log
+
+# Backups
+backups/
+*.tar.gz
+
+# System files
+.DS_Store
+
+# Environment
+.env
